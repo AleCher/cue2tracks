@@ -1,0 +1,14 @@
+#summary TODO list
+#labels Phase-Support,Phase-QA
+
+= TODO list =
+
+  # Support for cue sheet for splitted image (with many FILE entries)
+  # Extract only selected tracks.
+  # Automaticaly determine encoding of cue sheet.
+  # Add gettext support or other localization engine.
+  # Support ac3, alac.
+  # Loging actions.
+  # Try to use POSIX shell.
+  # User settings saved in ~/.cue2tracks/
+  # Extract from archives: zip, rar, 7z, tar, iso (+wv)...
