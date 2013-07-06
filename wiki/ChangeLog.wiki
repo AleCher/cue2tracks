@@ -2,6 +2,38 @@
 
 = History of cue2tracks =
 
+== 0.2.16 ==
+Date: 06.07.2013 14:11 MSD
+Changes:
+
+ - Honor TMPDIR env
+
+== 0.2.15 ==
+Date: 06.07.2013 14:09 MSD
+Changes:
+
+ - Search for similar input file if original from cue not found (dmitry.a.kirilin)
+
+== 0.2.14 ==
+Date: 29.09.2012 22:00 MSD
+Changes:
+
+ - Fixed permissions after copying cue for repair
+ - Added experimental TAK & MusePack support
+
+== 0.2.13 ==
+Date: 29.09.2012 20:00 MSD
+Changes:
+
+ - Fixed search for tools
+ - Fixed tag writing
+ - Added support float values for quality option
+ - Added experimental support for mac-ffmpeg decoding: MAC->ffmpeg->WAV->...
+
+== 0.2.12 ==
+Date: lost in time
+Skipped
+
 == 0.2.11 ==
 Date: 21.06.2009 16:00 MSD
 
