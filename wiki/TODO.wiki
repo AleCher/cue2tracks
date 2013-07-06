@@ -12,3 +12,4 @@
   # Try to use POSIX shell.
   # User settings saved in ~/.cue2tracks/
   # Extract from archives: zip, rar, 7z, tar, iso (+wv)...
+  # ReplayGain support
